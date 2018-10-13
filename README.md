@@ -2,4 +2,4 @@
 
 fetch seven new pictures from bing,and set them as windows desktop wallpaper
 
-configuration:py3,windows os
+environment:python3,windows os
